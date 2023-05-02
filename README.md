@@ -2,13 +2,11 @@
 
 The project objective is to implement a version of classical Snake game with PyGame and apply Genetic Algorithm, where the movements of the snake are determined by a genetic algorithm that evolves over time to create more efficient and effective game strategies. 
 
-Game demo
-
-https://user-images.githubusercontent.com/88292173/235656591-8ae5ab53-94de-4c7e-b864-01523743054e.MP4
-
-
 This project is intended for the "Nature Inspired Computing" course at Innopolis University.
 
+## Game demo
+
+https://user-images.githubusercontent.com/88292173/235656591-8ae5ab53-94de-4c7e-b864-01523743054e.MP4
 
 
 ## Set up
