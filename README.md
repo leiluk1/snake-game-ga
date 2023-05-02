@@ -6,7 +6,7 @@ DEMO
 
 
 
-![demo](https://user-images.githubusercontent.com/88292173/235655419-ff523208-9c32-48b5-bca6-2ce57deedb33.MP4)
+https://user-images.githubusercontent.com/88292173/235655419-ff523208-9c32-48b5-bca6-2ce57deedb33.MP4
 
 
 
