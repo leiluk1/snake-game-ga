@@ -4,8 +4,7 @@ The project objective is to implement a version of classical Snake game with PyG
 
 Game demo
 
-https://user-images.githubusercontent.com/88292173/235655419-ff523208-9c32-48b5-bca6-2ce57deedb33.MP4
-
+https://user-images.githubusercontent.com/88292173/235656591-8ae5ab53-94de-4c7e-b864-01523743054e.MP4
 
 
 This project is intended for the "Nature Inspired Computing" course at Innopolis University.
